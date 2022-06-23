@@ -1,7 +1,5 @@
 public class MainCharacter
 {
-	public hp, mp, sp;
-	public LocationMov()
-	{
-	}
+	public int hp, mp, sp;
+	public m_attack, m_hp;//m_ <- это сокращение от modificator. Это характеристика.
 }
