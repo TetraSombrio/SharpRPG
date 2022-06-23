@@ -1,0 +1,7 @@
+public class MainChar
+{
+	public hp, mp, sp;
+	public LocationMov()
+	{
+	}
+}
