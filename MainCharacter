@@ -1,4 +1,4 @@
-public class MainChar
+public class MainCharacter
 {
 	public hp, mp, sp;
 	public LocationMov()
